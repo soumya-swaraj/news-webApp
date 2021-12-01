@@ -1,0 +1,12 @@
+.newsaccodianhr{
+    width: 35%;
+    border: 0px solid white;
+    color: rgb(255, 0, 0);
+}
+a{
+    text-decoration: none;
+}
+.newsimg{
+    margin-bottom: 4px;
+    height: 120px;
+}
